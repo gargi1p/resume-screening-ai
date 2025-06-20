@@ -23,14 +23,14 @@ This system automates resume screening for recruiters or educational institution
 
 ## 📂 Project Structure
 
-resume_screening_project/
-│
-├── app.py # Streamlit frontend for resume upload and prediction
-├── main.py # Model training script
-├── model.py # BERT-based classifier architecture
-├── utils.py # PDF parsing and resume loading utilities
-├── requirements.txt # Project dependencies
-└── README.md # You're here!
+resume_screening_project/<br>
+│<br>
+├── app.py # Streamlit frontend for resume upload and prediction<br>
+├── main.py # Model training script<br>
+├── model.py # BERT-based classifier architecture<br>
+├── utils.py # PDF parsing and resume loading utilities<br>
+├── requirements.txt # Project dependencies<br>
+└── README.md # You're here!<br>
 
 
 
@@ -64,18 +64,18 @@ resume_screening_project/
 
 ## ⚙️ How to Run
 
-### 🧪 Step 1: Install Dependencies
-```bash
+ 🧪 Step 1: Install Dependencies
+
 pip install -r requirements.txt
 
 
-### 🚀 Step 2: Run the Streamlit App
-```bash
+🚀 Step 2: Run the Streamlit App
+
 streamlit run app.py
 
 
-### 🧠 Step 3: Train the Model (Optional)
+ 🧠 Step 3: Train the Model (Optional)
 You can train the model using:
 
-```bash
+
 python main.py
