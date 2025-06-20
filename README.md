@@ -46,7 +46,6 @@ resume_screening_project/<br>
 ![WhatsApp Image 2025-06-21 at 00 51 50_5195b92d](https://github.com/user-attachments/assets/dd6b5497-4a22-436b-9828-b57137aac81b)
 
 
-> 📌 *(You can add these screenshots by saving the UI output from Streamlit and uploading them to an `assets/` folder in the repo.)*
 
 ---
 
