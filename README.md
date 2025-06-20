@@ -39,13 +39,12 @@ resume_screening_project/<br>
 ## 🖼️ UI Output Snapshots
 
 ### 📄 Resume Upload Interface
-![Upload UI](assets/upload_ui.png)
+![Screenshot 2025-06-21 004105](https://github.com/user-attachments/assets/d5916d4c-a26b-4fb8-8397-7cc42ef9a588)
 
-### 🔍 Prediction & Confidence Score
-![Prediction UI](assets/prediction_ui.png)
 
 ### 💡 Insights & Suggestions
-![Insights UI](assets/insights_ui.png)
+![WhatsApp Image 2025-06-21 at 00 51 50_5195b92d](https://github.com/user-attachments/assets/dd6b5497-4a22-436b-9828-b57137aac81b)
+
 
 > 📌 *(You can add these screenshots by saving the UI output from Streamlit and uploading them to an `assets/` folder in the repo.)*
 
